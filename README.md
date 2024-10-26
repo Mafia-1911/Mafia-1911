@@ -1,6 +1,5 @@
-<img src="https://drive.google.com/file/d/1axGu75wRivEWHfDBnwyM2Oi7Jw0JqjuF/view?usp=sharing">
-<iframe src="https://drive.google.com/file/d/1SXlYdVu0emfVj2SxQuVxn2W9Y_GSIdLI/preview" width="640" height="480" allow="autoplay"></iframe>
-<iframe src="https://giphy.com/embed/V56ORD3h86bLPqx6Gh" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/visitsugartown-i-have-no-idea-what-im-doing-sugartown-mayor-mel-V56ORD3h86bLPqx6Gh">via GIPHY</a></p>
+
+![Dark Sci-Fi Gaming Twitch Banner](https://github.com/user-attachments/assets/a2f2b6e1-a261-4cb5-94f7-f7ed81e1521d)
 
 <h1 align="center">Hi 👋, I'm Mushtasin Ahmed</h1>
 <h3 align="center">A linguistic artisan who talks in the language of code</h3>
